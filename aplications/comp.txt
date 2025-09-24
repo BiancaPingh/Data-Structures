@@ -1,0 +1,24 @@
+4
+Baschet 5
+Ionescu Maria 10
+Popescu Mara 11
+Mihai Daniela 10
+Popa Andrei 9
+Neacsu Mariana 11
+Fotbal 4
+Mirica Dan 12
+Popa Andrei 9
+Neacsu Mariana 11
+Badiu Liviu 9
+Inot 6
+Alexe Adina 9
+Popa Andrei 9
+Ionescu Silvia 12
+Cristescu Dana 11
+Mirica Dan 12
+Deliu Dina 11
+Volei 4
+Mirica Dan 12
+Popescu Mara 11
+Neacsu Mariana 11
+Deliu Dina 11
